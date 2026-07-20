@@ -3,6 +3,8 @@
 Angular 17 (standalone components) ile geliştirilmiş, backend'e ihtiyaç duymayan
 (localStorage üzerinde çalışan simüle edilmiş bir API katmanına sahip) bir
 etkinlik / bilet / rezervasyon yönetim panelidir.
+<img width="1900" height="908" alt="Ekran görüntüsü 2026-07-20 132529" src="https://github.com/user-attachments/assets/987258f5-20c7-4009-be89-0dd9125c470a" />
+
 
 ## Kurulum ve Çalıştırma
 
@@ -33,6 +35,8 @@ kullanıcı arasında geçiş yapabilirsiniz:
 Yetkisiz bir sayfaya `roleGuard` üzerinden erişim engellenir; menüde de
 `appPermission` directive'i sayesinde yetkisi olmayan kullanıcıya ilgili
 menü öğeleri hiç gösterilmez.
+<img width="317" height="138" alt="Ekran görüntüsü 2026-07-20 132757" src="https://github.com/user-attachments/assets/63b57b88-f167-466e-b5f5-07982f735526" />
+
 
 ## Mimari Özeti
 
