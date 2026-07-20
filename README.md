@@ -33,8 +33,8 @@ kullanıcı arasında geçiş yapabilirsiniz:
 |Deniz Kontrol|Kontrol Görevlisi|Check-in ekranı, etkinlik/rezervasyon görüntüleme|
 
 Yetkisiz bir sayfaya `roleGuard` üzerinden erişim engellenir; menüde de
-`appPermission` directive'i sayesinde yetkisi olmayan kullanıcıya ilgili
-menü öğeleri hiç gösterilmez.
+`appPermission` directive'i sayesinde yetkisi olmayan kullanıcıya ilgili menü öğeleri hiç gösterilmez.
+
 <img width="317" height="138" alt="Ekran görüntüsü 2026-07-20 132757" src="https://github.com/user-attachments/assets/63b57b88-f167-466e-b5f5-07982f735526" />
 
 
