@@ -139,3 +139,8 @@ TypeScript syntax/tip tutarlılığı düzeyinde statik olarak doğrulanmıştı
 ilk `npm install` sonrası küçük paket-sürüm uyuşmazlıkları görürseniz
 `package.json`'daki sürümleri güncelleyin.
 
+Vercel Link: https://etkinlik-bilet-rezervasyon-l2gv.vercel.app/
+
+Geliştirici: [Kenan Bodur]
+
+Not: Bu proje yazılım stajı programı gereksinimleri doğrultusunda geliştirilmiştir.
